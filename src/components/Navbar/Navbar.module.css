@@ -1,0 +1,9 @@
+.navbar {
+    background: linear-gradient(to right,#1F0049, #937CAE,#12002F) !important;
+    z-index: 1415;
+    position: absolute !important;
+    bottom: -60px;
+    height: 60px;
+    left: 0;
+    right: 0;
+}
