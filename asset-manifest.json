@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/CodeAlpha_Task1_Portfolio/static/css/main.22c1b336.css",
+    "main.js": "/CodeAlpha_Task1_Portfolio/static/js/main.239138b5.js",
+    "static/media/bg.mp4": "/CodeAlpha_Task1_Portfolio/static/media/bg.349baac938461cf1182f.mp4",
+    "static/media/fa-solid-900.ttf": "/CodeAlpha_Task1_Portfolio/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/framer.png": "/CodeAlpha_Task1_Portfolio/static/media/framer.54735e0b18ceb0b3bd18.png",
+    "static/media/fa-brands-400.ttf": "/CodeAlpha_Task1_Portfolio/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/CodeAlpha_Task1_Portfolio/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/Mycv.pdf": "/CodeAlpha_Task1_Portfolio/static/media/Mycv.f64180d53d8bc134c268.pdf",
+    "static/media/Game.JPG": "/CodeAlpha_Task1_Portfolio/static/media/Game.d6b84ad3c7c5e3b5e78b.JPG",
+    "static/media/fa-brands-400.woff2": "/CodeAlpha_Task1_Portfolio/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/New.JPG": "/CodeAlpha_Task1_Portfolio/static/media/New.a1a0a632f1fc0417f6dc.JPG",
+    "static/media/Catga.JPG": "/CodeAlpha_Task1_Portfolio/static/media/Catga.d8107a49c5cec84f0dba.JPG",
+    "static/media/Eco.JPG": "/CodeAlpha_Task1_Portfolio/static/media/Eco.b750b239b6ff60875a13.JPG",
+    "static/media/yumm.JPG": "/CodeAlpha_Task1_Portfolio/static/media/yumm.bd93885bbe796731ee2d.JPG",
+    "static/media/React.jpeg": "/CodeAlpha_Task1_Portfolio/static/media/React.524bf2218ed025fbb241.jpeg",
+    "static/media/fa-regular-400.ttf": "/CodeAlpha_Task1_Portfolio/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/Book.JPG": "/CodeAlpha_Task1_Portfolio/static/media/Book.6ed0efd59913c4fabf4a.JPG",
+    "static/media/Proto.JPG": "/CodeAlpha_Task1_Portfolio/static/media/Proto.f856d33e141ae1a2630e.JPG",
+    "static/media/Age.JPG": "/CodeAlpha_Task1_Portfolio/static/media/Age.fa38e2ebefd7b72b0a47.JPG",
+    "static/media/logo.png": "/CodeAlpha_Task1_Portfolio/static/media/logo.cae41b05e4d149a84ee5.png",
+    "static/media/fa-regular-400.woff2": "/CodeAlpha_Task1_Portfolio/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/gsaplog.svg": "/CodeAlpha_Task1_Portfolio/static/media/gsaplog.dff87e2debbe5d37479732018b2a575a.svg",
+    "static/media/bootlog.webp": "/CodeAlpha_Task1_Portfolio/static/media/bootlog.41e6d3754a9414ee0e0e.webp",
+    "static/media/ds.JPG": "/CodeAlpha_Task1_Portfolio/static/media/ds.3db7fd6ce37320636de0.JPG",
+    "static/media/Css.png": "/CodeAlpha_Task1_Portfolio/static/media/Css.b3ec4e79063f8769c17d.png",
+    "static/media/fa-v4compatibility.ttf": "/CodeAlpha_Task1_Portfolio/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/Html3d.webp": "/CodeAlpha_Task1_Portfolio/static/media/Html3d.8a9060e44456309f4edc.webp",
+    "static/media/redlog.webp": "/CodeAlpha_Task1_Portfolio/static/media/redlog.2dcbae42f073b648d3ef.webp",
+    "static/media/fa-v4compatibility.woff2": "/CodeAlpha_Task1_Portfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/JavaSc.webp": "/CodeAlpha_Task1_Portfolio/static/media/JavaSc.a818fde88a0436303b93.webp",
+    "index.html": "/CodeAlpha_Task1_Portfolio/index.html",
+    "main.22c1b336.css.map": "/CodeAlpha_Task1_Portfolio/static/css/main.22c1b336.css.map",
+    "main.239138b5.js.map": "/CodeAlpha_Task1_Portfolio/static/js/main.239138b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22c1b336.css",
+    "static/js/main.239138b5.js"
+  ]
+}
