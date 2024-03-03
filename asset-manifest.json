@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CodeAlpha_Task1_Portfolio/static/css/main.22c1b336.css",
-    "main.js": "/CodeAlpha_Task1_Portfolio/static/js/main.239138b5.js",
+    "main.js": "/CodeAlpha_Task1_Portfolio/static/js/main.c91cbc8e.js",
     "static/media/bg.mp4": "/CodeAlpha_Task1_Portfolio/static/media/bg.349baac938461cf1182f.mp4",
     "static/media/fa-solid-900.ttf": "/CodeAlpha_Task1_Portfolio/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/framer.png": "/CodeAlpha_Task1_Portfolio/static/media/framer.54735e0b18ceb0b3bd18.png",
@@ -32,10 +32,10 @@
     "static/media/JavaSc.webp": "/CodeAlpha_Task1_Portfolio/static/media/JavaSc.a818fde88a0436303b93.webp",
     "index.html": "/CodeAlpha_Task1_Portfolio/index.html",
     "main.22c1b336.css.map": "/CodeAlpha_Task1_Portfolio/static/css/main.22c1b336.css.map",
-    "main.239138b5.js.map": "/CodeAlpha_Task1_Portfolio/static/js/main.239138b5.js.map"
+    "main.c91cbc8e.js.map": "/CodeAlpha_Task1_Portfolio/static/js/main.c91cbc8e.js.map"
   },
   "entrypoints": [
     "static/css/main.22c1b336.css",
-    "static/js/main.239138b5.js"
+    "static/js/main.c91cbc8e.js"
   ]
 }
